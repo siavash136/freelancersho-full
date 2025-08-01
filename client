@@ -1,0 +1,25 @@
+client/
+├── pages/
+│   ├── index.js
+│   ├── register.js
+│   ├── login.js
+│   ├── dashboard.js
+│   └── project/
+│       ├── [id].js
+│       └── create.js
+├── components/
+│   ├── Navbar.js
+│   ├── ProjectCard.js
+│   ├── SendProposal.js
+│   ├── ProposalsList.js
+│   └── ReviewForm.js
+├── public/
+│   └── logo.png
+├── styles/
+│   └── globals.css
+├── utils/
+│   └── api.js
+├── .env.local
+├── tailwind.config.js
+├── postcss.config.js
+└── package.json
